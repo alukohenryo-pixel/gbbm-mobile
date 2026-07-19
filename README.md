@@ -53,12 +53,6 @@ The platform combines cybersecurity education, AI-powered assistance, penetratio
 ## Project Structure
 
 ```
-mobile/
-backend/
-database/
-docs/
-scripts/
-```
 gbbm-mobile/
 │
 ├── README.md
@@ -123,6 +117,8 @@ gbbm-mobile/
 └── .github/
     └── workflows/
         └── flutter.yml
+
+```
 
 ---
 
