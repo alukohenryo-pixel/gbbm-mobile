@@ -172,13 +172,3 @@ GBBM Digital Solutions
 Building the future of cybersecurity—one commit at a time.
 
 </div>
-
-Founder
-
-GBBM Digital Solutions
-
----
-
-## License
-
-MIT License
