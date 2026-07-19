@@ -1,153 +1,177 @@
-# GBBM Mobile
+<div align="center">
 
-<p align="center">
-  <img src="docs/logo.png" width="150">
-</p>
+🛡️ GBBM Mobile
 
-## AI-Powered Cybersecurity Platform
+AI-Powered Cybersecurity • Learning • Community • Digital Innovation
 
-GBBM Mobile is the official mobile application for GBBM Digital Solutions.
+<img src="docs/assets/logo.png" width="180"/>"Flutter" (https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+"Dart" (https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+"GitHub" (https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github)
 
-The platform combines cybersecurity education, AI-powered assistance, penetration testing resources, social engineering awareness, and a professional community into a single mobile experience.
+Designed & Developed by GBBM Digital Solutions
+
+"Empowering digital professionals through knowledge, security, and innovation."
 
 ---
 
-## Features
+🚀 Overview
 
-- Secure Authentication
+GBBM Mobile is an all-in-one cybersecurity and digital productivity platform designed to help learners, professionals, entrepreneurs, and security enthusiasts grow their skills from anywhere.
+
+The application combines education, collaboration, AI assistance, security resources, and productivity into a modern mobile experience.
+
+---
+
+✨ Features
+
+- 🤖 AI Assistant
+- 🎓 Cybersecurity Learning Hub
+- 📰 Community Feed
+- 👤 User Profiles
+- 🏆 Achievements & Badges
+- 🛠 Security Tools
+- 📚 Digital Resources
+- 🔔 Push Notifications
+- 🌙 Dark Mode Interface
+- 📱 Offline Support
+- 🔒 Secure Authentication
+- ⚡ Fast Performance
+
+---
+
+📱 Screens
+
+- Splash Screen
+- Login
+- Register
+- Dashboard
+- Community
+- Courses
+- Security Tools
 - AI Assistant
-- Cybersecurity Courses
-- Penetration Testing Resources
-- Community Feed
-- User Profiles
-- Achievements & Badges
 - Notifications
-- Offline Support
-- Dark Cyberpunk UI
+- Profile
+- Settings
 
 ---
 
-## Technology Stack
+🏗 Technology Stack
 
-### Mobile
+Mobile
 
 - Flutter
 - Dart
 - Riverpod
 - Dio
+- Flutter Secure Storage
 
-### Backend
+Backend
 
+- Python
 - Flask
 - SQLAlchemy
-- PostgreSQL
 - JWT Authentication
+- PostgreSQL
 
-### Cloud
+Cloud
 
-- Cloudflare
 - Firebase Cloud Messaging
+- Cloudflare
+- Docker
+- GitHub Actions
 
 ---
 
-## Project Structure
+📂 Project Structure
 
-```
 gbbm-mobile/
 │
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── docs/
-│   ├── roadmap.md
-│   ├── api.md
-│   ├── architecture.md
-│   ├── database.md
-│   └── changelog.md
-│
 ├── mobile/
-│   ├── android/
-│   ├── ios/
-│   ├── lib/
-│   │   ├── core/
-│   │   ├── config/
-│   │   ├── services/
-│   │   ├── models/
-│   │   ├── screens/
-│   │   ├── widgets/
-│   │   ├── providers/
-│   │   ├── routes/
-│   │   ├── utils/
-│   │   └── main.dart
-│   │
-│   ├── assets/
-│   │   ├── images/
-│   │   ├── icons/
-│   │   ├── animations/
-│   │   └── fonts/
-│   │
-│   └── pubspec.yaml
-│
 ├── backend/
-│   ├── app/
-│   │   ├── auth/
-│   │   ├── api/
-│   │   ├── models/
-│   │   ├── routes/
-│   │   ├── services/
-│   │   ├── utils/
-│   │   └── __init__.py
-│   │
-│   ├── migrations/
-│   ├── tests/
-│   ├── config.py
-│   ├── requirements.txt
-│   └── run.py
-│
+├── docs/
 ├── database/
-│   ├── schema.sql
-│   └── seed.sql
-│
 ├── scripts/
-│   ├── setup.sh
-│   ├── setup.ps1
-│   └── deploy.sh
-│
-└── .github/
-    └── workflows/
-        └── flutter.yml
-
-```
+├── .github/
+├── LICENSE
+└── README.md
 
 ---
 
-## Development Status
+🎯 Roadmap
 
-Current Version
+Phase 1
 
-```
-v0.1.0 (Planning)
-```
-
----
-
-## Roadmap
-
-- User Authentication
+- Authentication
 - Dashboard
+- Navigation
+- User Profiles
+
+Phase 2
+
+- Community
 - Learning Platform
 - Security Tools
-- Community
+
+Phase 3
+
 - AI Assistant
-- Push Notifications
 - Premium Features
+- Marketplace
+- Analytics
 
 ---
 
-## Author
+🔐 Security
+
+GBBM Mobile is built with security as a core principle.
+
+- JWT Authentication
+- Password Hashing
+- HTTPS
+- Secure Local Storage
+- Role-Based Access Control
+- API Rate Limiting
+
+---
+
+🌍 Vision
+
+To become Africa's leading mobile platform for cybersecurity education, AI-powered assistance, and digital innovation.
+
+---
+
+🤝 Contributing
+
+Contributions, ideas, feature requests, and constructive feedback are welcome.
+
+Please fork the repository and submit a pull request.
+
+---
+
+📜 License
+
+Licensed under the MIT License.
+
+---
+
+👨‍💻 Developer
 
 Henry Aluko
+
+Founder & Lead Developer
+
+GBBM Digital Solutions
+
+---
+
+<div align="center">⭐ If you like this project, consider giving it a star!
+
+Building the future of cybersecurity—one commit at a time.
+
+</div>
 
 Founder
 
